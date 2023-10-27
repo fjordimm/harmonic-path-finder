@@ -335,7 +335,7 @@ int main(void)
 	}
 //*/
 
-/*
+///*
 	// degree 4, only 4ths & 5ths
 	for (int i = 3; i <= 4; i++)
 	{
@@ -465,7 +465,7 @@ int main(void)
 			}
 		}
 	}
-*/
+//*/
 
 	printf("--Major--\n");
 	for (int i = 0; i < 12; i++)
